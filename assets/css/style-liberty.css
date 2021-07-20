@@ -16874,7 +16874,7 @@ div#small-dialog iframe {
 .w3l-homeblog .top-pic6,
 .w3l-homeblog .top-pic7,
 .w3l-homeblog .top-pic8 {
-  background: url(../images/ab.jpg) no-repeat 0px 0px;
+  background: url(../images/course/cv_640x427.png) no-repeat 0px 0px;
   background-size: cover;
   padding: 10px;
   border-radius: var(--border-radius-full);
@@ -16886,7 +16886,7 @@ div#small-dialog iframe {
 }
 
 .w3l-homeblog .top-pic2 {
-  background: url(../images/ab1.jpg) no-repeat 0px 0px;
+  background: url(../images/course/ts_640x427.png) no-repeat 0px 0px;
   background-size: cover;
 }
 
