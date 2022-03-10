@@ -1,3 +1,3 @@
-# Skymind Education Group
+# D Learning Consultancy PLT
 Website link
-https://drpraneshkrishnan.github.io/seg.github.io/
+https://praneshkrishnan.github.io/d-learning.ai/
